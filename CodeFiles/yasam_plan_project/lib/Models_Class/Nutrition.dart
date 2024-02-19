@@ -1,0 +1,1 @@
+//Günlük beslenme listesini tutar

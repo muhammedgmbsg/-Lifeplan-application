@@ -1,0 +1,1 @@
+//Kullanıcı aktivite listelerini tutar

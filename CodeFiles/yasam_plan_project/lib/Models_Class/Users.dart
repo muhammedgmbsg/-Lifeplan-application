@@ -1,0 +1,1 @@
+//Kullanıcı Ad-Soyad-Yaş-Boy-Kilo-Cinsiyet bilgilerini tutar.
